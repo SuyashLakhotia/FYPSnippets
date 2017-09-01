@@ -1,0 +1,21 @@
+permalink: pretty
+
+# Setup
+title: 'Final Year Project Snippets'
+tagline: ''
+description: 'Blog to keep track of my progress on my Final Year Project titled "Graph Convolutional Neural Networks for Text Categorisation" under <a href="http://www.ntu.edu.sg/home/xbresson/">Prof. Xavier Bresson</a>. All blog posts authored by <a href="http://suyashlakhotia.com">Suyash Lakhotia</a>.'
+url: 'http://suyashlakhotia.com'
+baseurl: '/FYPSnippets'
+paginate: 5
+plugins:
+  - jekyll-paginate
+future: true
+
+# About
+author:
+  name: Suyash Lakhotia
+  url: https://github.com/SuyashLakhotia
+  email: suyashlakhotia@gmail.com
+
+# Custom vars
+version: 1.0.0
