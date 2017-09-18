@@ -1,5 +1,7 @@
-.post {
-  text-align: justify;
+@media (min-width: 768px) {
+  .post {
+    text-align: justify;
+  }
 }
 
 ul ul {
