@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week of 4 September 2017"
+title: "#2: Week of 4 September 2017"
 ---
 
 - Studied deep learning concepts & TensorFlow using the following resources:

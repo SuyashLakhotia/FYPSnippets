@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week of 18 September 2017"
+title: "#4: Week of 18 September 2017"
 ---
 
 - Read [TensorFlow Mechanics 101](https://www.tensorflow.org/get_started/mnist/mechanics) to further understand TensorFlow's workings.

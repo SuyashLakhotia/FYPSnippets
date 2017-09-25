@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week of 11 September 2017"
+title: "#3: Week of 11 September 2017"
 ---
 
 - Completed the Udacity course on Deep Learning ([Link](https://www.udacity.com/course/deep-learning--ud730)).

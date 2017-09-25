@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week of 28 August 2017"
+title: "#1: Week of 28 August 2017"
 ---
 
 - Met Prof. Bresson to discuss initial steps for project.
