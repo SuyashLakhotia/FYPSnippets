@@ -1,3 +1,21 @@
+.page-nav {
+  display: block;
+  width: auto;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.page-nav a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.page-nav .next {
+  text-align: right;
+}
+
 @media (min-width: 768px) {
   .post {
     text-align: justify;
