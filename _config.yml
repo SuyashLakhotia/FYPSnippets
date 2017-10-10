@@ -7,6 +7,7 @@ description: 'Blog to keep track of my progress on my Final Year Project titled 
 url: 'http://suyashlakhotia.com'
 baseurl: '/FYPSnippets'
 paginate: 5
+paginate_path: "page/:num"
 plugins:
   - jekyll-paginate
 future: true
