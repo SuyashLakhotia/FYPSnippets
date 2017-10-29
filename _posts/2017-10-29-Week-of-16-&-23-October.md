@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#8: Week of 16 October 2017"
+title: "#8 & #9: Week of 16 & 23 October 2017"
 ---
 
 - Currently reading up on graph convolutional neural networks.
