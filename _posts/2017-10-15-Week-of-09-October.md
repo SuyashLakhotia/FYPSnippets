@@ -7,7 +7,7 @@ title: "#7: Week of 09 October 2017"
 - Worked on improving the Rotten Tomatoes model based on the results from Y. Kim's original paper.
   - `Model v2`: Implemented a version of the model that uses pre-trained word2vec vectors trained on a corpus of ~100 billion words from Google News ([Link](https://code.google.com/archive/p/word2vec/)). This increased model performance by ~5%.
   - `Model v2.1`: Implemented a slightly different version that uses the same pre-trained word2vec vectors but also fine-tunes them for the task at hand, which resulted in a marginally better model.
-  - Documented all the results and uploaded the code to the [GitHub repo](https://github.com/SuyashLakhotia/RottenTomatoesCNN).
+  - The results and source code can be found in the [GitHub repo](https://github.com/SuyashLakhotia/RottenTomatoesCNN).
 
 ---
 
