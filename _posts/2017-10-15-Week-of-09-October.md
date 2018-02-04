@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#7: Week of 09 October 2017"
+title: "#7: Week of 9 October 2017"
 ---
 
 - Finished reading Y. Zhang & B. C. Wallace's paper, which dives deeper into Y. Kim's model and explores the effect of the hyperparameters involved. Wrote some notes [here](https://gist.github.com/SuyashLakhotia/d6fb338cd529af0181d78b00a3436e29) (also embedded below).

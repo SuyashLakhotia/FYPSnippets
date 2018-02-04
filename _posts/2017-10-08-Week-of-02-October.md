@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#6: Week of 02 October 2017"
+title: "#6: Week of 2 October 2017"
 ---
 
 > Slowdown in progress due to traveling, midterms and coursework.
