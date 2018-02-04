@@ -20,6 +20,11 @@
   .post {
     text-align: justify;
   }
+
+  .post .post-title,
+  .post .post-date {
+    text-align: left;
+  }
 }
 
 ul ul {
