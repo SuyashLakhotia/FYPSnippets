@@ -14,6 +14,6 @@ title: "#25: Week of 12 February"
 | GC5_32 [Cheby]       | 0.896903872 | 1518603526 |
 | GC5_32 [Spline]      | 0.898712250 | 1518708077 |
 
-- Ran experiments with count vectors on 20 Newsgroups. Since count vectors were originally used in the M. Defferrard et al. paper, it is important to identify whether the increase in performance of my models is solely because of the use of TF-IDF vectors (or changes to the model architecture also contribute to the same).
+- Ran experiments with count vectors on 20 Newsgroups. Since count vectors were originally used in the M. Defferrard et al. paper, it is important to identify whether the increase in performance of my models is solely because of the use of tf-idf vectors (or changes to the model architecture also contribute to the same).
 - Improved the data preprocessing pipeline such that it pickles the preprocessed train/test datasets for particular vocabulary sizes and sequence lengths (i.e. the default options) for accelerated loading in future experiments. This is especially important for the large RCV1 dataset.
 - Skimmed through a couple blog posts ([Huszar, 2016](http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/) and [Kipf, 2016](https://tkipf.github.io/graph-convolutional-networks/)) on graph convolutional neural networks (primarily about [T. Kipf et al., 2016](https://arxiv.org/abs/1609.02907))
