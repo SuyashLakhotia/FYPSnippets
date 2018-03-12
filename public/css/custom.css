@@ -35,15 +35,14 @@ ul ul ul {
   margin-bottom: 0;
 }
 
-summary {
-  font-size: 0.9rem;
-  font-style: italic;
-}
-
-summary:focus {
-  outline: none;
+details {
+  margin-top: 1rem;
 }
 
 details[open] summary {
   margin-bottom: 1rem;
+}
+
+summary:focus {
+  outline: none;
 }
