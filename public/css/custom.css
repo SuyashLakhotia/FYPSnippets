@@ -1,3 +1,7 @@
+.sidebar-toggle {
+  position: absolute;
+}
+
 .page-nav {
   display: block;
   width: auto;
