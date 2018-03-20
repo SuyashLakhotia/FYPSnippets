@@ -4,7 +4,7 @@ title: "#25: Week of 12 February"
 ---
 
 - Finished writing the code needed to extract and preprocess the RCV1 dataset.
-- Started running experiments on the RCV1 dataset using a similar train/test split as the one described in M. Henaff, 2015 (or [N. Srivastava, 2014](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)). Comprehensive results can be found [here](https://github.com/SuyashLakhotia/TextCategorization/blob/master/results.csv). A summary is given below (training time & epochs till 85% test accuracy are approximate values):
+- Started running experiments on the RCV1 dataset (`|V| = 2000`) using a similar train/test split as the one described in M. Henaff, 2015 (or [N. Srivastava, 2014](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)). Comprehensive results can be found [here](https://github.com/SuyashLakhotia/TextCategorization/blob/master/results.csv). A summary is given below (training time & epochs till 85% test accuracy are approximate values):
 
 | Model           | Test Accuracy | Parameters | Training Time <sup>†</sup>  | Epochs till 85% |
 |:---------------:|:-------------:|:----------:|:---------------------------:|:---------------:|

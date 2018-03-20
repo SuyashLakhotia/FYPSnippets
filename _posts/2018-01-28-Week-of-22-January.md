@@ -3,7 +3,7 @@ layout: post
 title: "#22: Week of 22 January 2018"
 ---
 
-- Investigated the effect of different weight initializations with differing vocabulary sizes on `gcnn_chebyshev` for 20 Newsgroups. From the results below (`[X]` = Xavier Initialization; `[T]` = Truncated Normal Initialization), we see that for a smaller vocabulary size, truncated normal initialization performs significantly better than Xavier initialization for the weights in the fully-connected layer, however, for a large vocabulary, the difference in the resulting test accuracies is negligible.
+- Investigated the effect of different weight initializations for the fully-connected layer(s) with differing vocabulary sizes on `gcnn_chebyshev` for 20 Newsgroups. From the results below (`[X]` = Xavier Initialization; `[T]` = Truncated Normal Initialization), we see that for a smaller vocabulary size, truncated normal initialization performs significantly better than Xavier initialization, however, for a large vocabulary, the difference in the resulting test accuracies is negligible.
 
 | Vocabulary Size | Model                | Test Accuracy | Timestamp  |
 |:---------------:|:--------------------:|:-------------:|:----------:|
